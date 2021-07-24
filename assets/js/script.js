@@ -251,7 +251,6 @@ var loadTasks = function() {
         
     }
 }
-debugger;
 loadTasks();
 
 pageContentEl.addEventListener("click", taskButtonHandler);
